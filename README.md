@@ -7,8 +7,9 @@ The key features are , almost all data that the website CONTAINS is served beaut
 # __APP screenShot: 
 
 
+<img src="https://user-images.githubusercontent.com/67198296/173171873-68948529-0f3b-4760-a8e4-16b98abb7a55.jpg" width="200" height="400" />
 
-![test](https://user-images.githubusercontent.com/67198296/173171873-68948529-0f3b-4760-a8e4-16b98abb7a55.jpg)
+
 ![test](https://user-images.githubusercontent.com/67198296/173171876-f0d6e78d-2cc9-4ee8-ae82-e7a7af39c431.jpg)
 ![test](https://user-images.githubusercontent.com/67198296/173171877-adb88011-5798-4d8f-9a74-71ffb49ce83e.jpg)
 ![test](https://user-images.githubusercontent.com/67198296/173171878-7d56fbda-d5ee-42aa-b6cc-a40cd41df32a.jpg)
