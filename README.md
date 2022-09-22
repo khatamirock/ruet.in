@@ -1,5 +1,5 @@
 # RUET.in
-# [ruet.in.apk] (https://drive.google.com/file/d/1xUixI2plvGXz0q3vdXZOibPqZTePPJUI/view?usp=sharing)
+# [ruet.in.apk](https://drive.google.com/file/d/1xUixI2plvGXz0q3vdXZOibPqZTePPJUI/view?usp=sharing)
 A new Flutter project based on the the information of //http://RUET.ac.bd RUET
 This app is made as a secondary project. And All datas been taken from the the Ruet website as public information. 
 The key features are , almost all data that the website CONTAINS is served beautifully in the app. The Images are subjects to be loaded from the Website Via Internet.
